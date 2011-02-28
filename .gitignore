@@ -1,0 +1,10 @@
+.orig
+.orig.*
+.chg.*
+.rej
+.conflict~
+build/*
+nbproject/private/*
+.DS_Store
+
+dist/*
